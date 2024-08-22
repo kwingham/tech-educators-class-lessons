@@ -16,3 +16,5 @@
 //     console.log(`It took you ${rollCount} rolls to get a 1.`);
 //   }
 // }
+
+console.log("Hello world!");
