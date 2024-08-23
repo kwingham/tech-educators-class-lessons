@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background-color: aqua;
+}
+
+img {
+  max-width: 50px;
+}
+
+p {
+  color: rgb(49, 49, 48);
+}
